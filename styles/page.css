@@ -1,0 +1,95 @@
+img {
+  width: 100%;
+  border-radius: 28px;
+}
+
+body {
+  background-color: var(--background-default-color);
+}
+.container {
+  width: 1120px;
+  margin: 88px auto;
+}
+
+.text-headline {
+  color: var(--text-color-headline);
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.titlepage h1 {
+  color: var(--text-color-primary);
+  font: var(--text-xl);
+  margin: 8px 0 40px;
+}
+
+.title-page p {
+  color: var(--text-color-secondary);
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.title-list h2 {
+  color: var(--text-color-primary);
+  font: var(--text-lg);
+  margin-bottom:8px;
+}
+
+.title-list p{
+  color: var(--text-color-secondary);
+  margin-bottom: 64px;
+}
+.card-content img {
+  height: 400px;
+  margin-top: 48px;
+}
+
+.card-content h3 {
+  color: var(--text-color-primary);
+  margin: 20px 0 4px;
+}
+.card-content p {
+  color: var(--text-color-secondary);
+  margin-bottom: 20px;
+}
+
+.card-content span{
+  font-weight: bold;
+}
+
+.card-content ul li {
+  color:  var(--accent-blue-color);
+  margin-left: 20px;
+
+}
+
+.card-content ul .purple {
+    color: var(--accent-purple);
+}
+
+.card-content ul .pink {
+    color: var(--accent-pink);
+}
+
+.card-content ul .orange {
+    color: var(--accent-orange);
+}
+
+.line {
+    margin: 40px 0;
+    height: 1px;
+    background-color: var(--border);
+}
+
+.description p {
+    color: var(--text-secondary);
+    text-align: center;
+}
+
+footer  {
+    color: #F0E8C2;
+    text-align: center;
+    line-height: 150%;
+    padding-bottom: 48px;
+    font-size: 16px;
+}

@@ -8,10 +8,10 @@
   --font-family: "Open Sans", sans-serif;
   --background-default-color:#F5F4F0;
   --border-primary-color:#D9D9D9;
-  --text-primary-color:#1B1B1B;
-  --text-secondary-color:#333333;
-  --text-tertiary-color:#696969;
-  --text-headline-color:#E1624F;
+  --text-color-primary:#1B1B1B;
+  --text-color-secondary:#333333;
+  --text-color-tertiary:#696969;
+  --text-color-headline:#E1624F;
   --accent-blue-color:#0C51A7;
   --accet-organe-color:#E95E10;
   --accent-pink-color:#E5245E;
@@ -23,4 +23,3 @@
   --text: 16px var(--font-family);
   --text-it: italic 16px var(--font-family)
 }
-
